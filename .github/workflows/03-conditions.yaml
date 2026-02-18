@@ -1,4 +1,4 @@
-name: HelloWorld
+name: conditions
 on: [push] # triggers
 jobs:
   hello:
