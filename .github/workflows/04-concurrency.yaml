@@ -1,4 +1,4 @@
-name: concurrency
+name: Concurrency
 on: [push] # triggers
 concurrency:
 # this workflow should be triggered for any branch only once.
